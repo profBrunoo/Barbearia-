@@ -8,12 +8,12 @@ header{
 
 .caixa{
   width: 940px;
-  position: absolute;
+  position: relative;
   margin: 0 auto;
 }
 
 
-nav{position: absolute;
+nav{position: relative;
   top: 110px;
   right: 0;
 
